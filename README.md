@@ -12,5 +12,4 @@ This module for the Allsky Camera project will process the captured image and ap
 ## Credits
 
 - [jbeale](https://forums.raspberrypi.com/viewtopic.php?t=348014#p2085037)
-- [kabalin](https://github.com/kabalin/mahara-blocktype-qrcode)
-- [Liip](https://www.liip.ch/)
+- [Alex-developer](https://github.com/AllskyTeam/allsky-modules/discussions/82#discussioncomment-8361878)
