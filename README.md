@@ -4,10 +4,10 @@ This module for the Allsky Camera project will process the captured image and ap
 
 ## Installation
 
-1 - Place the file ``lightpollution.sh`` in a folder of your choice (it's advisable to save it somewhere on the home folder, for instance ~/myscripts)
-2 - Make the .sh file executable by running chmod + lightpollution.sh
-3 - Copy the allsky_lightpollution.py file to the allsky/scripts/module folder
-4 - Over at the Allsky Module manager, in Night Capture enable the module and fill the the scriptlocation
+1. Place the file ``lightpollution.sh`` in a folder of your choice (it's advisable to save it somewhere on the home folder, for instance ~/myscripts)
+2. Make the .sh file executable by running chmod + lightpollution.sh
+3. Copy the allsky_lightpollution.py file to the allsky/scripts/module folder
+4. Over at the Allsky Module manager, in Night Capture enable the module and fill the the scriptlocation
 
 ## Credits
 
